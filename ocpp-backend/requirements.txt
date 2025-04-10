@@ -1,0 +1,4 @@
+python-ocpp==0.12.1
+websockets==10.3
+python-dotenv
+motor
